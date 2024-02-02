@@ -1,2 +1,2 @@
 # resolusi-ku
-resulusi saya kedepan
+Repositori untuk membuat resulusi saya kedepan
