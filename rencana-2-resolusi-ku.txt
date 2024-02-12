@@ -4,3 +4,6 @@ resolusi ku :
 - lanjut css3
 - lanjut bootstrap
 - belajar code igniter
+- belajar framework
+  * react
+  * angular
