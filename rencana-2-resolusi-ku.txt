@@ -7,3 +7,4 @@ resolusi ku :
   * Code Igniter
   * Laravel
 - belajar flutter
+- belajar css tailwind
