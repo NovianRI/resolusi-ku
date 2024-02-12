@@ -1,0 +1,4 @@
+resolusi ku :
+- belajar git
+- belajar javascript
+- belajar css3
