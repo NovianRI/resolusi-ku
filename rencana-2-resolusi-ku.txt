@@ -3,4 +3,7 @@ resolusi ku :
 - belajar javascript
 - lanjut css3
 - lanjut bootstrap
-- belajar code igniter
+- belajar framework
+  * Code Igniter
+  * Laravel
+- belajar flutter
