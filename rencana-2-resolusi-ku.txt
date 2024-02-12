@@ -1,0 +1,5 @@
+resolusi ku :
+- belajar git
+- belajar javascript
+- lanjut css3
+- lanjut bootstrap
