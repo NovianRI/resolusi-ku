@@ -7,3 +7,4 @@ resolusi ku :
 - belajar framework
   * react
   * angular
+- belajar golang
