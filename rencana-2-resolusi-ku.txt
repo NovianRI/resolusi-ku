@@ -1,4 +1,5 @@
 resolusi ku :
 - belajar git
 - belajar javascript
-- belajar css3
+- lanjut css3
+- lanjut bootstrap
