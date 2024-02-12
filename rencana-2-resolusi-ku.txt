@@ -8,3 +8,5 @@ resolusi ku :
   * react
   * angular
 - belajar golang
+- belajar flutter
+- belajar css tailwind
